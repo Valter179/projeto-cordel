@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section > p{
+    width: 150px;
+}
